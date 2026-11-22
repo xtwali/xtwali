@@ -99,5 +99,5 @@
 
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=FF8A2A&center=true&vCenter=true&width=520&lines=Let's+build+something.;%E2%80%94+connection+closed+by+florin@radasanu+%E2%80%94" alt="footer"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=FF8A2A&center=true&vCenter=true&width=520&lines=Let's+build+something.;%E2%80%94+connection+closed+by+xtwali+%E2%80%94" alt="footer"/>
 </p>
