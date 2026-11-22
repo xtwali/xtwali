@@ -23,3 +23,65 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:ff2e3b,100:0a0a0f&height=2" width="100%"/>
 
+
+
+
+## `> ls ~/arsenal`
+
+<table>
+<tr><td><b>⌨️ Languages</b></td><td>
+<img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
+<img src="https://img.shields.io/badge/JavaScript-0a0a0f?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Dart-0a0a0f?style=for-the-badge&logo=dart&logoColor=0175C2"/>
+<img src="https://img.shields.io/badge/HTML5-0a0a0f?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS3-0a0a0f?style=for-the-badge&logo=css&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/SQL-0a0a0f?style=for-the-badge&logo=sqlite&logoColor=4DB6E8"/>
+<img src="https://img.shields.io/badge/VHDL-0a0a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/C-0a0a0f?style=for-the-badge&logo=c&logoColor=A8B9CC"/>
+</td></tr>
+<tr><td><b>🌐 Web</b></td><td>
+<img src="https://img.shields.io/badge/React-0a0a0f?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0a0a0f?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind-0a0a0f?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+<img src="https://img.shields.io/badge/Framer%20Motion-0a0a0f?style=for-the-badge&logo=framer&logoColor=0055FF"/>
+<img src="https://img.shields.io/badge/GSAP-0a0a0f?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
+<img src="https://img.shields.io/badge/Vite-0a0a0f?style=for-the-badge&logo=vite&logoColor=646CFF"/>
+<img src="https://img.shields.io/badge/PWA-0a0a0f?style=for-the-badge&logo=pwa&logoColor=5A0FC8"/>
+</td></tr>
+<tr><td><b>📱 Mobile</b></td><td>
+<img src="https://img.shields.io/badge/Flutter-0a0a0f?style=for-the-badge&logo=flutter&logoColor=02569B"/>
+<img src="https://img.shields.io/badge/Riverpod-0a0a0f?style=for-the-badge&logo=dart&logoColor=00B4AB"/>
+<img src="https://img.shields.io/badge/Hive-0a0a0f?style=for-the-badge"/>
+</td></tr>
+<tr><td><b>⚙️ Backend & Data</b></td><td>
+<img src="https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
+<img src="https://img.shields.io/badge/Cloudflare%20Workers-0a0a0f?style=for-the-badge&logo=cloudflareworkers&logoColor=F38020"/>
+<img src="https://img.shields.io/badge/Cloudflare%20D1-0a0a0f?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
+<img src="https://img.shields.io/badge/Prisma-0a0a0f?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-0a0a0f?style=for-the-badge&logo=sqlite&logoColor=4DB6E8"/>
+<img src="https://img.shields.io/badge/Zod-0a0a0f?style=for-the-badge&logo=zod&logoColor=3E67B1"/>
+<img src="https://img.shields.io/badge/REST%20API-0a0a0f?style=for-the-badge"/>
+</td></tr>
+<tr><td><b>🛠️ Tools & DevOps</b></td><td>
+<img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-0a0a0f?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/Vercel-0a0a0f?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vitest-0a0a0f?style=for-the-badge&logo=vitest&logoColor=6E9F18"/>
+<img src="https://img.shields.io/badge/ESLint-0a0a0f?style=for-the-badge&logo=eslint&logoColor=4B32C3"/>
+<img src="https://img.shields.io/badge/npm-0a0a0f?style=for-the-badge&logo=npm&logoColor=CB3837"/>
+</td></tr>
+<tr><td><b>🔒 Security</b><br/><sub>my passion</sub></td><td>
+<img src="https://img.shields.io/badge/Cyber%20Security-ff2e3b?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0a0a0f"/>
+<img src="https://img.shields.io/badge/Network%20Security-0a0a0f?style=for-the-badge&logo=cisco&logoColor=ff2e3b"/>
+<img src="https://img.shields.io/badge/Secure%20Coding-0a0a0f?style=for-the-badge&logo=owasp&logoColor=ff2e3b"/>
+<img src="https://img.shields.io/badge/Ethical%20Hacking-0a0a0f?style=for-the-badge&logo=gnubash&logoColor=ff2e3b"/>
+</td></tr>
+<tr><td><b>🔌 Hardware</b></td><td>
+<img src="https://img.shields.io/badge/Analog%20Electronics-0a0a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Digital%20Logic-0a0a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Assembly-0a0a0f?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Electrical%20Skills-0a0a0f?style=for-the-badge"/>
+</td></tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:ff2e3b,100:0a0a0f&height=2" width="100%"/>
