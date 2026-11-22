@@ -85,3 +85,19 @@
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:ff2e3b,100:0a0a0f&height=2" width="100%"/>
+
+
+## `> ./snake --eat-contributions`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/radasanuflorin/radasanuflorin/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/radasanuflorin/radasanuflorin/output/snake-light.svg"/>
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/radasanuflorin/radasanuflorin/output/snake-dark.svg"/>
+  </picture>
+</p>
+
+<!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=FF8A2A&center=true&vCenter=true&width=520&lines=Let's+build+something.;%E2%80%94+connection+closed+by+florin@radasanu+%E2%80%94" alt="footer"/>
+</p>
