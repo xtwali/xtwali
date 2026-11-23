@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=radasanuflorin&style=for-the-badge&color=ff2e3b&label=PROFILE+VIEWS" alt="views"/>
   <img src="https://img.shields.io/badge/STATUS-AVAILABLE-3ddc84?style=for-the-badge&labelColor=0a0a0f" alt="available"/>
-  <img src="https://img.shields.io/badge/LOCATION-Nasik%2C%20RO-ff8a2a?style=for-the-badge&labelColor=0a0a0f&logo=googlemaps&logoColor=ff8a2a" alt="location"/>
+  <img src="https://img.shields.io/badge/LOCATION-Nasik%2C%20-ff8a2a?style=for-the-badge&labelColor=0a0a0f&logo=googlemaps&logoColor=ff8a2a" alt="location"/>
   <img src="https://img.shields.io/badge/INDIA-Physical%20Science%20%C2%B7%20Year%20II-ff2e3b?style=for-the-badge&labelColor=0a0a0f" alt="university"/>
 </p>
 
@@ -53,15 +53,6 @@
 <img src="https://img.shields.io/badge/Riverpod-0a0a0f?style=for-the-badge&logo=dart&logoColor=00B4AB"/>
 <img src="https://img.shields.io/badge/Hive-0a0a0f?style=for-the-badge"/>
 </td></tr>
-<tr><td><b>⚙️ Backend & Data</b></td><td>
-<img src="https://img.shields.io/badge/Node.js-0a0a0f?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E"/>
-<img src="https://img.shields.io/badge/Cloudflare%20Workers-0a0a0f?style=for-the-badge&logo=cloudflareworkers&logoColor=F38020"/>
-<img src="https://img.shields.io/badge/Cloudflare%20D1-0a0a0f?style=for-the-badge&logo=cloudflare&logoColor=F38020"/>
-<img src="https://img.shields.io/badge/Prisma-0a0a0f?style=for-the-badge&logo=prisma&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-0a0a0f?style=for-the-badge&logo=sqlite&logoColor=4DB6E8"/>
-<img src="https://img.shields.io/badge/Zod-0a0a0f?style=for-the-badge&logo=zod&logoColor=3E67B1"/>
-<img src="https://img.shields.io/badge/REST%20API-0a0a0f?style=for-the-badge"/>
-</td></tr>
 <tr><td><b>🛠️ Tools & DevOps</b></td><td>
 <img src="https://img.shields.io/badge/Git-0a0a0f?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub%20Actions-0a0a0f?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
@@ -70,21 +61,7 @@
 <img src="https://img.shields.io/badge/ESLint-0a0a0f?style=for-the-badge&logo=eslint&logoColor=4B32C3"/>
 <img src="https://img.shields.io/badge/npm-0a0a0f?style=for-the-badge&logo=npm&logoColor=CB3837"/>
 </td></tr>
-<tr><td><b>🔒 Security</b><br/><sub>my passion</sub></td><td>
-<img src="https://img.shields.io/badge/Cyber%20Security-ff2e3b?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0a0a0f"/>
-<img src="https://img.shields.io/badge/Network%20Security-0a0a0f?style=for-the-badge&logo=cisco&logoColor=ff2e3b"/>
-<img src="https://img.shields.io/badge/Secure%20Coding-0a0a0f?style=for-the-badge&logo=owasp&logoColor=ff2e3b"/>
-<img src="https://img.shields.io/badge/Ethical%20Hacking-0a0a0f?style=for-the-badge&logo=gnubash&logoColor=ff2e3b"/>
-</td></tr>
-<tr><td><b>🔌 Hardware</b></td><td>
-<img src="https://img.shields.io/badge/Analog%20Electronics-0a0a0f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital%20Logic-0a0a0f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Assembly-0a0a0f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Electrical%20Skills-0a0a0f?style=for-the-badge"/>
-</td></tr>
-</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0f,50:ff2e3b,100:0a0a0f&height=2" width="100%"/>
 
 
 ## `> ./snake --eat-contributions`
