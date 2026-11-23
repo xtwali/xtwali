@@ -26,8 +26,6 @@
 
 
 
-## `> ls ~/arsenal`
-
 <table>
 <tr><td><b>⌨️ Languages</b></td><td>
 <img src="https://img.shields.io/badge/TypeScript-0a0a0f?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
@@ -61,7 +59,6 @@
 <img src="https://img.shields.io/badge/ESLint-0a0a0f?style=for-the-badge&logo=eslint&logoColor=4B32C3"/>
 <img src="https://img.shields.io/badge/npm-0a0a0f?style=for-the-badge&logo=npm&logoColor=CB3837"/>
 </td></tr>
-
 
 
 ## `> ./snake --eat-contributions`
