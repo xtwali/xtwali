@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/ESLint-0a0a0f?style=for-the-badge&logo=eslint&logoColor=4B32C3"/>
 <img src="https://img.shields.io/badge/npm-0a0a0f?style=for-the-badge&logo=npm&logoColor=CB3837"/>
 </td></tr>
-
+</table>
 
 ## `> ./snake --eat-contributions`
 
@@ -70,6 +70,7 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/radasanuflorin/radasanuflorin/output/snake-dark.svg"/>
   </picture>
 </p>
+
 
 <!-- ═══════════════════════════════  FOOTER  ═══════════════════════════════ -->
 <p align="center">
